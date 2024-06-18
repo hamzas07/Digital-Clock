@@ -1,0 +1,35 @@
+.container {
+  display:flex;
+  margin:150px auto;
+  border: 1px solid white;
+  padding:10px;
+  box-sizing: border-box;
+  border-radius: 15px;
+  text-align: center;
+  justify-content: center;
+  width:400px;
+  font-weight: bold;
+  font-size: 60px;
+  color:white;
+  box-shadow: 10px 10px 10px lightblue;
+}
+body {
+
+  background-color: black;
+  font-family: Arial;
+}
+.container2 {
+  
+  color:white;
+  display:flex;
+  gap:10px;
+  margin:1px auto;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  font-family: Times New Roman;
+  font-size: 60px;
+  box-shadow: 10px 10px 10px lightblue;
+  width:400px;
+  
+}
